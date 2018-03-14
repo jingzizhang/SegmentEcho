@@ -20,7 +20,7 @@ Please refer to LICENSE.md
 
 <br><br>
 
-This project is mainly written in python with Keras. Part of post-processing code is written in Matlab.
+This project is mainly written in python with Keras.
 
 
 
