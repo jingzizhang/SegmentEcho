@@ -15,7 +15,9 @@ Due to privacy issues, we cannot disclose our dataset. However, the code should 
 
 ## Acknowledgement
 
-- We thank Dr. Mirela Tuzovic for providing the dataset and insight that greatly assisted the project.
+- We thank Prof. Fabien Scalzo for all his guidance and support.
+
+- We also thank Dr. Mirela Tuzovic for providing the dataset and insight that greatly assisted the project.
 
 - The main code framework is borrowed from:
 
