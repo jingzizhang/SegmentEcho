@@ -69,7 +69,7 @@ Change the variable ```pred_dir ``` to where you want to store the predicted mas
 
 2. Execute python script:
 
-```python train_pred.py```
+  - ```python train_pred.py```
 
 - Or use jupyter notebook
 
