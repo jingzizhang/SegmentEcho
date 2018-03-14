@@ -26,22 +26,16 @@ Due to privacy issues, we cannot disclose our dataset. However, the code should 
 - Please refer to LICENSE.md for copyright and license.
 
 ## How to use
-First, clone the repo to your computer. Go to the folder where this repo is saved.
+First, clone the repo to your computer. Navigate to the folder where this repo is saved.
 
 ### Dependencies
-Please run
-
-```pip install -r requirements```
-
-to install the dependencies.
+Please run ```pip install -r requirements``` to install the dependencies.
 
 ### Convert video to png
 
 Save ```video2img.sh``` in the same directory as your echo data.
 
-Run
-
-```./video2img.sh```
+Run ```./video2img.sh```
 
 ### Prepare Data
 
