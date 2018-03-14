@@ -49,9 +49,7 @@ Run
 
 1. Change the variable ```data_path ``` in ```data.py ``` to the folder containing your echo data:
 
-2. Execute python script:
-
-```python data.py```
+2. Execute python script: ```python data.py```
 
 - Or use jupyter notebook
 
@@ -67,9 +65,7 @@ Run
 Change the variable ```img_ds_rows ``` and ```img_ds_cols ``` for the downsampled size.
 Change the variable ```pred_dir ``` to where you want to store the predicted masks.
 
-2. Execute python script:
-
-  - ```python train_pred.py```
+2. Execute python script: ```python train_pred.py```
 
 - Or use jupyter notebook
 
