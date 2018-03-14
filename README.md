@@ -1,7 +1,7 @@
 # SegmentEcho
 ## Overview
 Automatic Heart Chamber Segmentation using Convolutional Neural Networks in 2D Echocardiography 
-- Submitted as the Final project for ECE211A, UCLA, Winter 2018 by Prof. Fabien Scalzo
+- Submitted as the Final project for ECE211A (Digital Image Processing I), UCLA, Winter 2018 by Prof. Fabien Scalzo
 
 Authors: Jingzi Zhang, Yi Zheng
 
