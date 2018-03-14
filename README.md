@@ -17,15 +17,13 @@ Due to privacy issues, we cannot disclose our dataset. However, the code should 
 
 - We thank Dr. Mirela Tuzovic for providing the dataset and insight that greatly assisted the project.
 
-<br><br>
-
 - The main code framework is borrowed from:
 
-https://github.com/jocicmarko/ultrasound-nerve-segmentation
+-- https://github.com/jocicmarko/ultrasound-nerve-segmentation
 
-https://github.com/jocicmarko/kaggle-dsb2-keras/
+-- https://github.com/jocicmarko/kaggle-dsb2-keras/
 
-Please refer to LICENSE.md
+- Please refer to LICENSE.md for copyright and license.
 
 ## How to use
 First, clone the repo to your computer. Go to the folder where this repo is saved.
