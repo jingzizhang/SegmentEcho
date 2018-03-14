@@ -19,9 +19,9 @@ Due to privacy issues, we cannot disclose our dataset. However, the code should 
 
 - The main code framework is borrowed from:
 
--- https://github.com/jocicmarko/ultrasound-nerve-segmentation
+  - https://github.com/jocicmarko/ultrasound-nerve-segmentation
 
--- https://github.com/jocicmarko/kaggle-dsb2-keras/
+  - https://github.com/jocicmarko/kaggle-dsb2-keras/
 
 - Please refer to LICENSE.md for copyright and license.
 
