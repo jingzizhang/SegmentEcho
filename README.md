@@ -13,7 +13,7 @@ This project is mainly written in python with Keras.
 
 Due to privacy issues, we cannot disclose our dataset. However, the code should work with common echo data of .avi videos with size 600x800.
 
-## Acknowledgement
+## Acknowledgements
 
 - We thank Prof. Fabien Scalzo for all his guidance and support.
 
