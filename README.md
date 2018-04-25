@@ -31,7 +31,7 @@ Due to privacy issues, we cannot disclose our dataset. However, the code should 
 First, clone the repo to your computer. Navigate to the folder where this repo is saved.
 
 ### Dependencies
-Please run ```pip install -r requirements``` to install the dependencies.
+Please run ```pip install -r requirements.txt``` to install the dependencies.
 
 ### Convert video to png
 
